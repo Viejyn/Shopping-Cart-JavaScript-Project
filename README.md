@@ -13,7 +13,7 @@
 
 ### 🌐 `Deploy`
 
-
+https://shopping-cart-js-180823.netlify.app/
 
 ### 🎥 `Screen`
 
